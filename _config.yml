@@ -7,9 +7,19 @@ show_excerpts: false # Set to true to show excepert on the homepage
 
 minima:
   skin: dark
+  
+  # generate social links
   social_links:
     twitter: lunaarvibes
     github: lunaaar
     linkedin: samuel-rubin-
 
+
+# Build Settings
 theme: minima
+
+
+# Plugins
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

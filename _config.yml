@@ -1,7 +1,6 @@
 title: Your awesome title
-author:
-  name: Sam Rubin
-  email: sjrube32@gmail.com
+author: Sam Rubin
+email: sjrube32@gmail.com
 
 show_excerpts: false # Set to true to show excepert on the homepage
 

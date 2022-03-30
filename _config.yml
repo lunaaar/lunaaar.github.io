@@ -6,6 +6,7 @@ author:
 show_excerpts: false # Set to true to show excepert on the homepage
 
 minima:
+  skin: dark
   social_links:
     twitter: lunaarvibes
     github: lunaaar

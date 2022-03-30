@@ -1,1 +1,14 @@
+title: Your awesome title
+author:
+  name: Sam Rubin
+  email: sjrube32@gmail.com
+
+show_excerpts: false # Set to true to show excepert on the homepage
+
+minima:
+  social_links:
+    twitter: lunaarvibes
+    github: lunaaar
+    linkedin: samuel-rubin-
+
 theme: minima

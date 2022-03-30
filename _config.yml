@@ -1,18 +1,16 @@
-title: Your awesome title
+title: Lunar Moonbase
 author: Sam Rubin
 email: sjrube32@gmail.com
 
 show_excerpts: false # Set to true to show excepert on the homepage
 
 minima:
-  skin: dark
-  
   # generate social links
   social_links:
     twitter: lunaarvibes
     github: lunaaar
     linkedin: samuel-rubin-
+    discord: Lunar#7524
 
 # Build Settings
 theme: minima
-#remote_theme: jekyll-theme-serial-programmer

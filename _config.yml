@@ -13,6 +13,8 @@ minima:
     github: lunaaar
     linkedin: samuel-rubin-
 
+jekyll-theme-serial-programmer:
+  skin: dark
 
 # Build Settings
 # theme: minima

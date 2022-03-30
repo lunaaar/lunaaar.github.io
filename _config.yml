@@ -15,4 +15,5 @@ minima:
 
 
 # Build Settings
-theme: minima
+# theme: minima
+remote_theme: jekyll-theme-serial-programmer

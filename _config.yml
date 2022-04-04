@@ -27,6 +27,14 @@ url: "https://lunaaar.github.io/" # the base hostname & protocol for your site, 
 twitter_username: lunaarvibes
 github_username:  lunaaar
 
+
+# Fields that are used but not shown as default
+author: Sam Rubin
+linkedin_username: samuel-rubin-
+
+<!-- Uncomment this once you put the correct file in the place holder spot. -->
+<!-- title-logo: /images/title-logo.png -->
+
 # Build settings
 
 # Removed minima theme as it is now a regular theme.

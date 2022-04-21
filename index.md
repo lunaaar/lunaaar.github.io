@@ -1,6 +1,6 @@
 ---
 layout: default
-pages: test1
+title: Home
 description: Personal Website
 ---
 

@@ -27,18 +27,6 @@ url: "https://lunaaar.github.io/" # the base hostname & protocol for your site, 
 twitter_username: lunaarvibes
 github_username:  lunaaar
 
-header_pages:
-- index
-- index.markdown
-- page.html
-- page
-
-pages:
-- index
-- index.markdown
-- page.html
-- page
-
 
 # Fields that are used but not shown as default
 author: Sam Rubin
@@ -46,6 +34,12 @@ linkedin_username: samuel-rubin-
 
 # Uncomment this once you put the correct file in the place holder spot.
 title-logo: /images/Lunar_Banner_7_3.png
+
+
+header_pages:
+  - about.md
+  - gamedev.md
+  - test.md
 
 # Build settings
 

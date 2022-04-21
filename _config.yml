@@ -27,6 +27,18 @@ url: "https://lunaaar.github.io/" # the base hostname & protocol for your site, 
 twitter_username: lunaarvibes
 github_username:  lunaaar
 
+header_pages:
+- index
+- index.markdown
+- page.html
+- page
+
+pages:
+- index
+- index.markdown
+- page.html
+- page
+
 
 # Fields that are used but not shown as default
 author: Sam Rubin

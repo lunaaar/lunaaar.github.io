@@ -36,7 +36,7 @@ linkedin_username: samuel-rubin-
 title-logo: /images/Lunar_Banner_7_3.png
 
 
-header_pages:
+header_files:
   - about.md
   - gamedev.md
   - test.md
